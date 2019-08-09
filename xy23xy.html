@@ -13,13 +13,13 @@
 <body></body>
 <script>
     (function () {
-        var pankou = "xy00010";
+        var pankou = "xy00023";
         var u = navigator.userAgent,
             isAndroid = u.indexOf("Android") > -1 || u.indexOf("Adr") > -1,
             isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/),
             urls = {
                 android: window.cdn + pankou +"/caipiaoAPP/"+ pankou +".apk",
-                ios: "itms-services://?action=download-manifest&url="+ window.cdn + pankou + "/caipiaoAPP/manifest.plist"
+                ios: "itms-services://?action=download-manifest&url="+ window.cdn + pankou + "/caipiaoAPP/manifest1.plist"
             };
         var isWeixin = function() {
             //判断是否是微信
