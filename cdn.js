@@ -1,1 +1,1 @@
-window.cdn="https://static-pc.fse120.com/"
+window.cdn="https://static-pc.xibizhan.com/"
