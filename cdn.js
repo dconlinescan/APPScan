@@ -1,1 +1,1 @@
-window.cdn="https://static-pc.whxgzt.com/"
+window.cdn="https://static-pc.wgukf.com/"
